@@ -1,0 +1,1 @@
+The Ecommerce Website definition is any website that sells products or services through the Internet.It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user.The Coding languages which are used are html,css and javascript
